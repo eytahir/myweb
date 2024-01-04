@@ -1,7 +1,7 @@
 import React from 'react'
 import radiant from "../assets/radiant.png";
-import bg from "../assets/bg.png";
-import bg2 from "../assets/bg2.png";
+import evhan from "../assets/evhan.png";
+import ginks from "../assets/ginks.png";
 
 const Portfolio = () => {
 
@@ -13,12 +13,11 @@ const Portfolio = () => {
         },
         {
             id:2,
-            src: bg,
-            href:"https://tangerine-cannoli-1ef776.netlify.app"
+            src: evhan
         },
         {
             id:3,
-            src: bg2
+            src: ginks
         }
     ]
 
