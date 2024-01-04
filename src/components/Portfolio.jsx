@@ -13,11 +13,12 @@ const Portfolio = () => {
         },
         {
             id:2,
-            src: evhan
+            src: ginks,
+            href:"https://tangerine-cannoli-1ef776.netlify.app"
         },
         {
             id:3,
-            src: ginks
+            src: evhan
         }
     ]
 
