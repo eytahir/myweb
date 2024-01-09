@@ -8,7 +8,7 @@ const About = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
 
-            <p className='text-xl mt-20'>I am a 23-year-old graduate student who completed a Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines.  I am a artistic person and I earned money through commission graphic design work during nearly my entire time in engineering school. I saw some similarities when I recreate some design in photoshop and making a website following a specific design and making it's functionalities.
+            <p className='text-xl mt-20'>A 23-year-old who completed a Bachelor of Science in Computer Engineering at the Polytechnic University of the Philippines, I am deeply passionate about merging creativity with technical expertise.  I am known for being artistic, which manifests in my love for using editing software. This unique combination allows me to seamlessly draw parallels between photo editing and code writing. Through this, I not only enhance my technical skills but also bring a fresh and innovative perspective to problem-solving. I am excited to contribute my diverse skills and perspectives to dynamic projects, where my creativity and technical proficiency can converge for impactful results.
 
             </p>
             <br/>
